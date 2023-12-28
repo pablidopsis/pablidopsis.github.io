@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Pablo González-Suárez
+title: Pablo
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: González-Suárez
 
 # Full name (for SEO)
 first_name: Pablo
