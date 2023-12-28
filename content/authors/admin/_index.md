@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Pablo González-Suárez
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Pablo
+last_name: González-Suárez
 
 # Status emoji
 status:
@@ -17,74 +17,100 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Leeds
+    url: https://www.leeds.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests are around the control of plant development by temperature, specially during the reproductive phase.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Molecular Biology
+  - Plant Genetics
+  - Computational Modelling
+  - Physiology
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Plant Sciences
+      institution: University of Leeds
+      year: 2023
+    - course: MSc in Bioinformatics and Biostatistics
+      institution: Open University of Catalonia 
+      year: 2023
+    - course: MSc in Plant Biotechnology
+      institution: University of Oviedo
+      year: 2019
+    - course: BSc in Environmental Biology
+      institution: Autonomous University of Barcelona
+      year: 2018
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
+      - name: Molecular Biology
+        description: ''
+        percent: 100
+        icon: beaker
+        icon_pack: hero
+      - name: Genetics
+        description: ''
+        percent: 90
+        icon: share
+        icon_pack: hero
+      - name: Bioinformatics
+        description: ''
+        percent: 90
+        icon: command-line
+        icon_pack: hero
+      - name: Mathematical Modelling
+        description: ''
+        percent: 70
+        icon: variable
+        icon_pack: hero
+  - name: Coding
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: R
+        description: ''
+        percent: 100
+        icon: researcherid
+        icon_pack: academicons
       - name: Python
         description: ''
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
       - name: SQL
         description: ''
-        percent: 40
+        percent: 60
         icon: database
         icon_pack: fas
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+      - name: Writing
         description: ''
         percent: 80
-        icon: camera-retro
-        icon_pack: fas
+        icon: pencil-square
+        icon_pack: hero
+      - name: Ukelele
+        description: ''
+        percent: 60
+        icon: musical-note
+        icon_pack: hero
+      - name: Watching dog memes
+        description: ''
+        percent: 100
+        icon: device-phone-mobile
+        icon_pack: hero
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
