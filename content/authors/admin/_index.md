@@ -96,11 +96,10 @@ skills:
         icon_pack: fas
   - name: Hobbies
     items:
-      - name: Writing
+      - name: Jogging
         description: ''
         percent: 80
-        icon: pencil-square
-        icon_pack: hero
+        icon: 🏃
       - name: Ukelele
         description: ''
         percent: 60
