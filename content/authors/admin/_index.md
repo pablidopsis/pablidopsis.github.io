@@ -65,8 +65,8 @@ skills:
       - name: Mathematical Modelling
         description: ''
         percent: 70
-        icon: variable
-        icon_pack: fab
+        icon: square-root-alt
+        icon_pack: fas
   - name: Coding
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -90,8 +90,8 @@ skills:
       - name: Ukelele
         description: ''
         percent: 40
-        icon: music
-        icon_pack: fab
+        icon: guitar
+        icon_pack: fas
       - name: Watching dog memes
         description: ''
         percent: 100
@@ -103,7 +103,7 @@ skills:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: twitter
-    icon_pack: ai
+    icon_pack: fab
     link: https://twitter.com/pablidopsis
     label: Follow me on Twitter
     display:
