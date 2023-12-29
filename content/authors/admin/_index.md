@@ -99,7 +99,7 @@ skills:
       - name: Jogging
         description: ''
         percent: 80
-        icon: 🏃
+        icon: running
       - name: Ukelele
         description: ''
         percent: 60
