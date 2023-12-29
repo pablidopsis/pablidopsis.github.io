@@ -58,7 +58,7 @@ skills:
       - name: Molecular Biology
         description: ''
         percent: 100
-        icon: beaker
+        icon: hero/beaker
         icon_pack: hero
       - name: Genetics
         description: ''
