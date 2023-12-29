@@ -65,7 +65,7 @@ skills:
       - name: Mathematical Modelling
         description: ''
         percent: 70
-        icon: math
+        icon: math-pablo
   - name: Coding
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -73,11 +73,11 @@ skills:
       - name: R
         description: ''
         percent: 90
-        icon: r
+        icon: r-pablo
       - name: Python
         description: ''
         percent: 60
-        icon: python
+        icon: python-pablo
   - name: Hobbies
     items:
       - name: Jogging
@@ -87,7 +87,7 @@ skills:
       - name: Ukelele
         description: ''
         percent: 40
-        icon: guitar
+        icon: guitar-pablo
         icon_pack: hero
       - name: Watching dog memes
         description: ''
@@ -102,8 +102,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: https://mailto:p.gonzalez-suarez@example.com
-  - icon: twitter
-    icon_pack: fab
+  - icon: x
+    icon_pack: ai
     link: https://twitter.com/pablidopsis
     label: Follow me on Twitter
     display:
@@ -113,7 +113,7 @@ social:
     link: https://scholar.google.es/citations?user=P-L7_98AAAAJ&hl=es&oi=sra
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/pablidopsis
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Pablo-Gonzalez-Suarez-2
@@ -128,5 +128,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a postdoctoral researcher at the Centre for Plant Sciences in the University of Leeds. My scientific interest revolves around the control of plant development by environmental signals, which I study through a combination of bioinformatics and molecular biology techniques.
 {style="text-align: justify;"}
