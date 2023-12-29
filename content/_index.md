@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: 
+      title: Bio 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
@@ -70,7 +70,16 @@ sections:
           date_start: '2023-10-01'
           date_end: ''
           description: I work in [Laura Dixon's lab](https://twitter.com/tweeticum) researching the temperature control of reproductive development in hexaploid wheat (_Triticum aestivum_) using a combination of bioinformatics and molecular biology.
-    
+
+        - title: MSc Student
+          company: University of Glasgow
+          company_url: 'https://www.gla.ac.uk/'
+          company_logo: 
+          location: Glasgow, United Kingdom
+          date_start: '2022-09-01'
+          date_end: '2023-06-01'
+          description: As part of my second MSc in Bioinformatics and Biostatistics, I worked in [Rea Antoniou-Kourounioti's lab](https://www.gla.ac.uk/schools/molecularbiosciences/staff/realailaantonioukourounioti/), where I studied plant responses to complex cold signals through transcriptomics and mathematical modelling.
+        
         - title: Postgraduate Researcher
           company: University of Leeds
           company_url: 'https://www.leeds.ac.uk/'
@@ -80,7 +89,7 @@ sections:
           date_end: '2023-09-30'
           description: During my PhD, I worked in Tom [Bennett's lab](https://tombennettlab.org/), where my main interest was the environmental regulation of the end-of-flowering in _Arabidopsis thaliana_, which I studied using genetics, bioinformatics and detailed physiological analyses.
 
-        - title: MSc Student
+        - title: Research Intern
           company: Regional Agri-food Research & Development Service (SERIDA)
           company_url: 'http://www.serida.org/'
           company_logo: 
@@ -94,7 +103,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Awards'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -104,15 +113,16 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
+        - certificate_url: 
+          date_end: '2022-05-01'
           date_start: '2021-01-25'
           description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
+          icon: microphone
+          icon_pack: fas
+          organization: Genetics Society
+          organization_url: https://genetics.org.uk/
+          title: Communicating Your Science Workshop Grant  
+          url: 'https://genetics.org.uk/grants/comm-your-sci/'
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
