@@ -115,32 +115,41 @@ sections:
       items:
         - certificate_url: 
           date_end: '2022-05-01'
-          date_start: '2021-01-25'
-          description: ''
-          icon: microphone
-          icon_pack: fas
-          organization: Genetics Society
-          organization_url: https://genetics.org.uk/
-          title: Communicating Your Science Workshop Grant  
-          url: 'https://genetics.org.uk/grants/comm-your-sci/'
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          date_start: ''
+          description: 'Scholarship from the UK Government to fund a short-term stay in [Krzysztof Wabnik's lab](https://twitter.com/PlantDynamics) at the Centre for Plant Biotechnology and Genomics (Spain).'
+          icon: 
+          organization: UK Government
+          organization_url: https://www.turing-scheme.org.uk/
+          title: Turing Mobility Scholarship
           url: ''
+        - certificate_url: 
+          date_end: '2022-04-01'
+          date_start: ''
+          description: 'Grant for the participation in the Communicating Your Science Workshop.'
+          icon: 
+          organization: Genetics Society
+          organization_url: https://genetics.org.uk/grants/comm-your-sci/
+          title: Communicating Your Science Workshop Grant  
+          url: ''
+        - certificate_url: 
+          date_end: '2021-05-01'
+          date_start: ''
+          description: ''
+          icon: 
+          organization: Society of Spanish Researchers in the UK
+          organization_url: https://sruk.org.uk/
+          title: Professional Development Grant
+          url: ''
+        - certificate_url: 
+          date_end: '2019-06-01'
+          date_start: ''
+          description: 'EU-funded scholarship for a summer internship at the University of Leeds (United Kingdom).'
+          icon: 
+          organization: European Union
+          organization_url: https://erasmus-plus.ec.europa.eu/
+          title: Erasmus+ Scholarship
+          url: ''
+    
     design:
       columns: '2'
   - block: collection
