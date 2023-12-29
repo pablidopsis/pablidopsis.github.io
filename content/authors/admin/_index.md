@@ -65,7 +65,8 @@ skills:
       - name: Mathematical Modelling
         description: ''
         percent: 70
-        icon: math-pablo
+        icon: variable
+        icon_pack: fab
   - name: Coding
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -89,8 +90,8 @@ skills:
       - name: Ukelele
         description: ''
         percent: 40
-        icon: guitar-pablo
-        icon_pack: hero
+        icon: music
+        icon_pack: fab
       - name: Watching dog memes
         description: ''
         percent: 100
