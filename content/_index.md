@@ -80,7 +80,7 @@ sections:
           date_end: '2023-09-30'
           description: During my PhD, I worked in Tom [Bennett's lab](https://tombennettlab.org/), where my main interest was the environmental regulation of the end-of-flowering in _Arabidopsis thaliana_, which I studied using genetics, bioinformatics and detailed physiological analyses.
 
- - title: MSc Student
+        - title: MSc Student
           company: Regional Agri-food Research & Development Service (SERIDA)
           company_url: 'http://www.serida.org/'
           company_logo: 
