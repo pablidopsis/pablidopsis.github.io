@@ -97,7 +97,6 @@ sections:
           date_start: '2018-09-01'
           date_end: '2019-06-30'
           description: During my first MSc in Plant Biotechnology, I led a collaborative project between the [University of Oviedo](https://www.uniovi.es/) and the [SERIDA](http://www.serida.org/), in which I investigated the regulation of branching in pine tree (_Pinus pinaster_) by phytohormones. As part of this, I designed and performed field trials, monitored plant gorwth and assisted during sample processing.
-    
     design:
       columns: '2'
   - block: accomplishments
@@ -149,7 +148,6 @@ sections:
           organization_url: https://erasmus-plus.ec.europa.eu/
           title: Erasmus+ Scholarship
           url: ''
-    
     design:
       columns: '2'
   - block: collection
