@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2023-12-29
 type: landing
 
 sections:
@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
@@ -62,27 +62,33 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Postdoctoral Researcher
+          company: University of Leeds
+          company_url: 'https://www.leeds.ac.uk/'
+          company_logo: 
+          location: Leeds, United Kingdom
+          date_start: '2023-10-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
+          description: I work in [Laura Dixon's lab](https://twitter.com/tweeticum) researching the temperature control of reproductive development in hexaploid wheat (_Triticum aestivum_) using a combination of bioinformatics and molecular biology.
+    
+        - title: Postgraduate Researcher
+          company: University of Leeds
+          company_url: 'https://www.leeds.ac.uk/'
+          company_logo: 
+          location: Leeds, United Kingdom
+          date_start: '2019-10-01'
+          date_end: '2023-09-30'
+          description: During my PhD, I worked in Tom [Bennett's lab](https://tombennettlab.org/), where my main interest was the environmental regulation of the end-of-flowering in _Arabidopsis thaliana_, which I studied using genetics, bioinformatics and detailed physiological analyses.
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+ - title: MSc Student
+          company: Regional Agri-food Research & Development Service (SERIDA)
+          company_url: 'http://www.serida.org/'
+          company_logo: 
+          location: Asturias, Spain
+          date_start: '2018-09-01'
+          date_end: '2019-06-30'
+          description: During my first MSc in Plant Biotechnology, I led a collaborative project between the [University of Oviedo](https://www.uniovi.es/) and the [SERIDA](http://www.serida.org/), in which I investigated the regulation of branching in pine tree (_Pinus pinaster_) by phytohormones. As part of this, I designed and performed field trials, monitored plant gorwth and assisted during sample processing.
+    
     design:
       columns: '2'
   - block: accomplishments
