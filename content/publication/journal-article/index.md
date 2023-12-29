@@ -1,8 +1,9 @@
 ---
-title: "An example journal article"
+title: "FLOWERING LOCUS T mediates photo-thermal timing of inflorescence meristem arrest in Arabidopsis thaliana"
 authors:
 - admin
-- Robert Ford
+- Catriona H Walker
+- Tom Bennett
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
