@@ -67,10 +67,6 @@ skills:
         percent: 70
         icon: square-root-alt
         icon_pack: fas
-  - name: Coding
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
       - name: R
         description: ''
         percent: 90
@@ -82,6 +78,8 @@ skills:
         icon: python
         icon_pack: fab
   - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
     items:
       - name: Jogging
         description: ''
