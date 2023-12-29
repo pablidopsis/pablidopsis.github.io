@@ -101,7 +101,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: https://mailto:p.gonzalez-suarez@leeds.ac.uk
   - icon: x
     icon_pack: ai
     link: https://twitter.com/pablidopsis
