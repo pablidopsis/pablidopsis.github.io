@@ -73,11 +73,13 @@ skills:
       - name: R
         description: ''
         percent: 90
-        icon: r-pablo
+        icon: r-project
+        icon_pack: fab
       - name: Python
         description: ''
         percent: 60
-        icon: python-pablo
+        icon: python
+        icon_pack: fab
   - name: Hobbies
     items:
       - name: Jogging
@@ -101,7 +103,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: https://mailto:p.gonzalez-suarez@leeds.ac.uk
+    link: mailto:p.gonzalez-suarez@leeds.ac.uk
   - icon: x
     icon_pack: ai
     link: https://twitter.com/pablidopsis
