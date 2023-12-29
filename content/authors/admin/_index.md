@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Pablo
+title: González-Suárez
 
 # Name pronunciation (optional)
-name_pronunciation: González-Suárez
+name_pronunciation: Pablo
 
 # Full name (for SEO)
 first_name: Pablo
@@ -32,7 +32,6 @@ interests:
   - Molecular Biology
   - Plant Genetics
   - Computational Modelling
-  - Physiology
 
 # Education to show in About widget
 education:
@@ -55,45 +54,30 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Molecular Biology
+      - name: Molecular Biology and Genetics
         description: ''
         percent: 100
-        icon: hero/beaker
-        icon_pack: hero
-      - name: Genetics
-        description: ''
-        percent: 90
-        icon: share
-        icon_pack: hero
+        icon: dna
       - name: Bioinformatics
         description: ''
         percent: 90
-        icon: command-line
-        icon_pack: hero
+        icon: computer
       - name: Mathematical Modelling
         description: ''
         percent: 70
-        icon: variable
-        icon_pack: hero
+        icon: math
   - name: Coding
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: R
         description: ''
-        percent: 100
-        icon: researcherid
-        icon_pack: academicons
+        percent: 90
+        icon: r
       - name: Python
         description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: SQL
-        description: ''
         percent: 60
-        icon: database
-        icon_pack: fas
+        icon: python
   - name: Hobbies
     items:
       - name: Jogging
@@ -102,14 +86,13 @@ skills:
         icon: running
       - name: Ukelele
         description: ''
-        percent: 60
-        icon: musical-note
+        percent: 40
+        icon: guitar
         icon_pack: hero
       - name: Watching dog memes
         description: ''
         percent: 100
-        icon: device-phone-mobile
-        icon_pack: hero
+        icon: dog
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
