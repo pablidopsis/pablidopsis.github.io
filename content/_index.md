@@ -116,7 +116,7 @@ sections:
           date_end: ''
           date_start: '2022-05-02'
           description: UK-funded short stay in [Krzysztof Wabnik's lab](https://twitter.com/PlantDynamics) at the CBGP (Spain).
-          icon: ukgov
+          icon: 
           organization: UK Government
           organization_url: https://www.turing-scheme.org.uk/
           title: Turing Mobility Scholarship
@@ -124,7 +124,7 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2021-10-01'
-          description: Competitive grant to fund the participation my professional growth and development.
+          description: Competitive grant to promote my professional growth and development.
           icon: 
           organization: Society of Spanish Researchers in the UK
           organization_url: https://sruk.org.uk/
@@ -140,33 +140,6 @@ sections:
           title: 'Erasmus+ Scholarship'
           url: ''
     design:
-      columns: '2'
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
       columns: '2'
   - block: portfolio
     id: projects
@@ -195,14 +168,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
   - block: collection
     id: featured
     content:
@@ -238,55 +203,39 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
   - block: contact
     id: contact
     content:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        If you are interested in my research and would like to discuss about science, get in touch!
       # Contact (add or remove contact options as necessary)
       email: pablidopsis@gmail.com
-      phone: 888 888 88 88
+      phone: +44 7521 481918
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: Irene Manton, Faculty of Biological Sciences, University of Leeds 
+        city: Leeds
+        region: LS
+        postcode: 'LS2 9JT'
+        country: United Kingdom
+        country_code: UK
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '53.8044'
+        longitude: '-1.5548'  
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
+          name: @pablidopsis
+          link: 'https://twitter.com/pablidopsis'
+        - icon: envelope
           icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
-      # Automatically link email and phone or display as text?
+          name: pablidopsis@gmail.com
+          link: 'https://mailto:pablidopsis@gmail.com'
+          # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '2'
 ---
