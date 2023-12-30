@@ -25,7 +25,7 @@ organizations:
     url: https://www.leeds.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are around the control of plant development by temperature, specially during the reproductive phase.
+bio: ''
 
 # Interests to show in About widget
 interests:
