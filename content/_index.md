@@ -116,7 +116,7 @@ sections:
           date_end: ''
           date_start: '2022-05-02'
           description: UK-funded short stay in [Krzysztof Wabnik's lab](https://twitter.com/PlantDynamics) at the CBGP (Spain).
-          icon: 
+          icon: ukgov
           organization: UK Government
           organization_url: https://www.turing-scheme.org.uk/
           title: Turing Mobility Scholarship
