@@ -90,13 +90,13 @@ sections:
           description: During my PhD, I worked in Tom [Bennett's lab](https://tombennettlab.org/), where my main interest was the environmental regulation of the end-of-flowering in _Arabidopsis thaliana_, which I studied using genetics, bioinformatics and detailed physiological analyses.
 
         - title: Research Intern
-          company: Regional Agri-food Research & Development Service (SERIDA)
-          company_url: 'http://www.serida.org/'
-          company_logo: 
+          company: University of Oviedo
+          company_url: 'https://www.uniovi.es/'
+          company_logo: uniovi
           location: Asturias, Spain
           date_start: '2018-09-01'
           date_end: '2019-06-30'
-          description: During my first MSc in Plant Biotechnology, I led a collaborative project between the [University of Oviedo](https://www.uniovi.es/) and the [SERIDA](http://www.serida.org/), in which I investigated the regulation of branching in pine tree (_Pinus pinaster_) by phytohormones. As part of this, I designed and performed field trials, monitored plant gorwth and assisted during sample processing.
+          description: During my first MSc in Plant Biotechnology, I led a collaborative project between the [University of Oviedo](https://www.uniovi.es/) and the [SERIDA](http://www.serida.org/), in which I investigated the regulation of branching in pine tree (_Pinus pinaster_) by phytohormones.
     design:
       columns: '2'
   - block: accomplishments
