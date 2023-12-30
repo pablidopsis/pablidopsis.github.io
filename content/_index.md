@@ -74,7 +74,7 @@ sections:
         - title: MSc Student
           company: University of Glasgow
           company_url: 'https://www.gla.ac.uk/'
-          company_logo: glasgow
+          company_logo: 
           location: Glasgow, United Kingdom
           date_start: '2022-09-01'
           date_end: '2023-06-01'
