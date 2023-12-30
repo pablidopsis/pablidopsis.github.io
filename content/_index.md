@@ -87,7 +87,7 @@ sections:
           location: Leeds, United Kingdom
           date_start: '2019-10-01'
           date_end: '2023-09-30'
-          description: During my PhD, I worked in Tom [Bennett's lab](https://tombennettlab.org/), where my main interest was the environmental regulation of the end-of-flowering in _Arabidopsis thaliana_, which I studied using genetics, bioinformatics and detailed physiological analyses.
+          description: During my PhD, I worked in [Tom Bennett's lab](https://tombennettlab.org/), where my main interest was the environmental regulation of the end-of-flowering in _Arabidopsis thaliana_, which I studied using genetics, bioinformatics and detailed physiological analyses.
 
         - title: Research Intern
           company: University of Oviedo
@@ -229,10 +229,6 @@ sections:
           icon_pack: fab
           name: '@pablidopsis'
           link: 'https://twitter.com/pablidopsis'
-        - icon: envelope
-          icon_pack: fas
-          name: 'pablidopsis@gmail.com'
-          link: 'https://mailto:pablidopsis@gmail.com'
           # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
