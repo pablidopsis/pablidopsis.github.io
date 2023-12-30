@@ -227,11 +227,11 @@ sections:
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: @pablidopsis
+          name: '@pablidopsis'
           link: 'https://twitter.com/pablidopsis'
         - icon: envelope
           icon_pack: fas
-          name: pablidopsis@gmail.com
+          name: 'pablidopsis@gmail.com'
           link: 'https://mailto:pablidopsis@gmail.com'
           # Automatically link email and phone or display as text?
       autolink: true
