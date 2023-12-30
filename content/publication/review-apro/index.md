@@ -27,8 +27,7 @@ abstract: Plant development is orchestrated and yet flexible. This enables the f
 # Summary. An optional shortened abstract.
 summary: A general review highlighting the key ways in which temperature influences plant development at different points throughout the plants' life cycle.
 
-tags:
-- Source Themes
+tags: ""
 featured: false
 
 # links:
