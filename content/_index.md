@@ -151,7 +151,7 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2021-07-01'
-          description: Award to the best poster for my contribution titled '_Beauty and the Ceased: The Key to Never Ending Flowering_' in the conference VIII International Symposium from the Society of Spanish Researchers in the UK (online).
+          description: Award to the best poster for my contribution titled Beauty and the Ceased: The Key to Never Ending Flowering in the conference VIII International Symposium from the Society of Spanish Researchers in the UK (online).
           icon: 
           organization: Society of Spanish Researchers in the UK
           organization_url: https://sruk.org.uk/
@@ -160,7 +160,7 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2021-06-01'
-          description: First prize in the [2021 Leeds Doctoral College Showcase](https://peopledevelopment.leeds.ac.uk/news/2021-doctoral-college-showcase-winners-announced/) poster competition for my contribution titled '_Why do plants stop flowering?_'.
+          description: First prize in the [2021 Leeds Doctoral College Showcase](https://peopledevelopment.leeds.ac.uk/news/2021-doctoral-college-showcase-winners-announced/) poster competition for my contribution titled Why do plants stop flowering?.
           icon: 
           organization: University of Leeds
           organization_url: https://www.leeds.ac.uk/
