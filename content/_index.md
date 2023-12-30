@@ -113,8 +113,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: 
-          date_end: '2023-10-01'
-          date_start: ''
+          date_end: ''
+          date_start: '2023-10-01'
           description: Prize for my contribution titled '_Hot and Cold: Mathematical Modelling of Temperature Sensing in Arabidopsis and Wheat_' in the conference Genetics of Future Food Production and the Green Revolution 2.0 (Newcastle, UK).
           icon: 
           organization: Genetics Society
@@ -122,8 +122,8 @@ sections:
           title: Best Poster Award
           url: ''
         - certificate_url: 
-          date_end: '2022-05-01'
-          date_start: ''
+          date_end: ''
+          date_start: '2022-05-01'
           description: Scholarship from the UK Government to fund a short-term stay in [Krzysztof Wabnik's lab](https://twitter.com/PlantDynamics) at the Centre for Plant Biotechnology and Genomics (Spain).
           icon: 
           organization: UK Government
@@ -131,8 +131,8 @@ sections:
           title: Turing Mobility Scholarship
           url:
         - certificate_url: 
-          date_end: '2022-05-01'
-          date_start: ''
+          date_end: ''
+          date_start: '2022-05-01'
           description: ''
           icon: 
           organization: Genetics Society
@@ -140,8 +140,8 @@ sections:
           title: Junior Conference Grant
           url: ''
         - certificate_url: 
-          date_end: '2022-06-01'
-          date_start: ''
+          date_end: ''
+          date_start: '2022-06-01'
           description: ''
           icon: 
           organization: Society of Spanish Researchers in the UK
@@ -149,8 +149,8 @@ sections:
           title: Travel Grant
           url: 
         - certificate_url: 
-          date_end: '2021-07-01'
-          date_start: ''
+          date_end: ''
+          date_start: '2021-07-01'
           description: Award to the best poster for my contribution titled '_Beauty and the Ceased: The Key to Never Ending Flowering_' in the conference VIII International Symposium from the Society of Spanish Researchers in the UK (online).
           icon: 
           organization: Society of Spanish Researchers in the UK
@@ -158,8 +158,8 @@ sections:
           title: Best Poster Award
           url: 
         - certificate_url: 
-          date_end: '2021-06-01'
-          date_start: ''
+          date_end: ''
+          date_start: '2021-06-01'
           description: First prize in the [2021 Leeds Doctoral College Showcase](https://peopledevelopment.leeds.ac.uk/news/2021-doctoral-college-showcase-winners-announced/) poster competition for my contribution titled '_Why do plants stop flowering?_'.
           icon: 
           organization: University of Leeds
@@ -167,8 +167,8 @@ sections:
           title: Best Poster Prize (1st)
           url:
         - certificate_url: 
-          date_end: '2021-10-01'
-          date_start: ''
+          date_end: ''
+          date_start: '2021-10-01'
           description: ''
           icon: 
           organization: Society of Spanish Researchers in the UK
@@ -176,8 +176,8 @@ sections:
           title: Professional Development Grant
           url: 
         - certificate_url: 
-          date_end: '2019-06-01'
-          date_start: ''
+          date_end: ''
+          date_start: '2019-06-01'
           description: EU-funded scholarship for a summer internship at the University of Leeds (UK).
           icon: 
           organization: European Union
