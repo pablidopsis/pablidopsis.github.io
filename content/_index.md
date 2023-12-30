@@ -124,7 +124,7 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2023-10-11'
-          description: ''
+          description: Best poster prize in the Genetics of Food Production and the Green Revolution 2.0 conference.
           icon: 
           organization: Genetics Society
           organization_url: https://genetics.org.uk/
