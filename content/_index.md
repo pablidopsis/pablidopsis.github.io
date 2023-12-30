@@ -132,6 +132,15 @@ sections:
           url: ''
         - certificate_url: 
           date_end: ''
+          date_start: '2023-06-10'
+          description: First prize for the best talk at the Postgraduate Researcher Symposium.
+          icon: 
+          organization: University of Leeds
+          organization_url: https://www.leeds.ac.uk/
+          title: Best Talk Award
+          url: ''
+        - certificate_url: 
+          date_end: ''
           date_start: '2022-05-01'
           description: ''
           icon: 
