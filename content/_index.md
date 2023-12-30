@@ -139,10 +139,10 @@ sections:
           organization_url: https://sruk.org.uk/
           title: Travel Grant
           url: 
-        - certificate_url: 
+        - certificate_url: https://peopledevelopment.leeds.ac.uk/news/2021-doctoral-college-showcase-winners-announced/
           date_end: ''
-          date_start: '2021-06-01'
-          description: First prize in the [2021 Leeds Doctoral College Showcase](https://peopledevelopment.leeds.ac.uk/news/2021-doctoral-college-showcase-winners-announced/) poster competition for my contribution titled Why do plants stop flowering?.
+          date_start: '2021-06-12'
+          description: First prize in the 2021 Leeds Doctoral College Showcase poster competition for my contribution titled Why do plants stop flowering?.
           icon: 
           organization: University of Leeds
           organization_url: https://www.leeds.ac.uk/
