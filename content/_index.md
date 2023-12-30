@@ -114,7 +114,7 @@ sections:
       items:
         - certificate_url: 
           date_end: ''
-          date_start: '2023-10-01'
+          date_start: '2023-09-01'
           description: ''
           icon: 
           organization: Genetics Society
