@@ -65,7 +65,7 @@ sections:
         - title: Postdoctoral Researcher
           company: University of Leeds
           company_url: 'https://www.leeds.ac.uk/'
-          company_logo: 
+          company_logo: leeds
           location: Leeds, United Kingdom
           date_start: '2023-10-01'
           date_end: ''
@@ -83,7 +83,7 @@ sections:
         - title: Postgraduate Researcher
           company: University of Leeds
           company_url: 'https://www.leeds.ac.uk/'
-          company_logo: 
+          company_logo: leeds
           location: Leeds, United Kingdom
           date_start: '2019-10-01'
           date_end: '2023-09-30'
@@ -92,7 +92,7 @@ sections:
         - title: Research Intern
           company: University of Oviedo
           company_url: 'https://www.uniovi.es/'
-          company_logo: uniovi
+          company_logo: 
           location: Asturias, Spain
           date_start: '2018-09-01'
           date_end: '2019-06-30'
