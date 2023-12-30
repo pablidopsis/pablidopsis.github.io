@@ -92,7 +92,7 @@ sections:
         - title: Research Intern
           company: University of Oviedo
           company_url: 'https://www.uniovi.es/'
-          company_logo: 
+          company_logo: uniovi
           location: Asturias, Spain
           date_start: '2018-09-01'
           date_end: '2019-06-30'
