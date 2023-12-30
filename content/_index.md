@@ -123,6 +123,15 @@ sections:
           url:
         - certificate_url: 
           date_end: ''
+          date_start: '2023-10-11'
+          description: ''
+          icon: 
+          organization: Genetics Society
+          organization_url: https://genetics.org.uk/
+          title: Best Poster Award
+          url: ''
+        - certificate_url: 
+          date_end: ''
           date_start: '2022-05-01'
           description: ''
           icon: 
