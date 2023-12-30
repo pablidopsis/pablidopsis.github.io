@@ -25,7 +25,7 @@ publication_short: ""
 abstract: Plant development is orchestrated and yet flexible. This enables the formation of the correct organs within the context of previous and current environmental cues. The use of previous environmental experiences, such as the conditions when the seed formed or whether winter has passed, is critical to maximise reproductive success. Temperature is a crucial signal in achieving this, it provides current seasonal information and is an indicator of forthcoming environmental conditions, including drought or freezing. Therefore, many temperature responses facilitate environmental acclimation as well as trigger key developmental changes, such as germination, growth, and flowering. Research has identified that temperature signals are interpreted in the context of light signalling, circadian and light intensity, and developmental stage. Furthermore, a number of temperature cues are stress signals, associated with very high or low temperatures. These signals do trigger developmental responses but not as part of standard developmental growth. This article focuses on the role of ambient temperature on each of the major stages of plant development.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: A general review highlighting the key ways in which temperature influences plant development at different points throughout the plants' life cycle.
 
 tags:
 - Source Themes
@@ -46,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Regulation of _SOC1_ expression via temperature-dependent MADS-box protein interactions.'
   focal_point: ""
   preview_only: false
 
