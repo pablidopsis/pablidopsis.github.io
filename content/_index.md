@@ -114,7 +114,7 @@ sections:
       items:
         - certificate_url: 
           date_end: ''
-          date_start: '2023-09-01'
+          date_start: '2023-10-03'
           description: ''
           icon: 
           organization: Genetics Society
@@ -123,7 +123,7 @@ sections:
           url: ''
         - certificate_url: 
           date_end: ''
-          date_start: '2022-05-01'
+          date_start: '2022-05-02'
           description: Scholarship from the UK Government to fund a short-term stay in [Krzysztof Wabnik's lab](https://twitter.com/PlantDynamics) at the Centre for Plant Biotechnology and Genomics (Spain).
           icon: 
           organization: UK Government
