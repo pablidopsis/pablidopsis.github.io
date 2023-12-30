@@ -65,7 +65,7 @@ sections:
         - title: Postdoctoral Researcher
           company: University of Leeds
           company_url: 'https://www.leeds.ac.uk/'
-          company_logo: leeds
+          company_logo: 
           location: Leeds, United Kingdom
           date_start: '2023-10-01'
           date_end: ''
@@ -83,7 +83,7 @@ sections:
         - title: Postgraduate Researcher
           company: University of Leeds
           company_url: 'https://www.leeds.ac.uk/'
-          company_logo: leeds
+          company_logo: 
           location: Leeds, United Kingdom
           date_start: '2019-10-01'
           date_end: '2023-09-30'
@@ -123,15 +123,6 @@ sections:
           url:
         - certificate_url: 
           date_end: ''
-          date_start: '2023-10-11'
-          description: Best poster prize in the Genetics of Food Production and the Green Revolution 2.0 conference.
-          icon: 
-          organization: Genetics Society
-          organization_url: https://genetics.org.uk/
-          title: Best Poster Award
-          url: ''
-        - certificate_url: 
-          date_end: ''
           date_start: '2023-06-10'
           description: First prize for the best talk at the Postgraduate Researcher Symposium.
           icon: 
@@ -139,33 +130,6 @@ sections:
           organization_url: https://www.leeds.ac.uk/
           title: Best Talk Award
           url: ''
-        - certificate_url: 
-          date_end: ''
-          date_start: '2022-05-01'
-          description: ''
-          icon: 
-          organization: Genetics Society
-          organization_url: https://genetics.org.uk/
-          title: Junior Conference Grant
-          url: ''
-        - certificate_url: 
-          date_end: ''
-          date_start: '2021-06-01'
-          description: ''
-          icon: Best poster prize in the VIII International Symposium from the Society of Spanish Researchers in the UK.
-          organization: Society of Spanish Researchers in the UK
-          organization_url: https://sruk.org.uk/
-          title: Best Poster Award
-          url: 
-        - certificate_url: 
-          date_end: ''
-          date_start: '2021-06-12'
-          description: First prize in the [2021 Leeds Doctoral College Showcase](https://peopledevelopment.leeds.ac.uk/news/2021-doctoral-college-showcase-winners-announced/) poster competition.
-          icon: 
-          organization: University of Leeds
-          organization_url: https://www.leeds.ac.uk/
-          title: Best Poster Prize
-          url:
         - certificate_url: 
           date_end: ''
           date_start: '2021-10-01'
