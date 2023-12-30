@@ -65,7 +65,7 @@ sections:
         - title: Postdoctoral Researcher
           company: University of Leeds
           company_url: 'https://www.leeds.ac.uk/'
-          company_logo: leeds
+          company_logo: 
           location: Leeds, United Kingdom
           date_start: '2023-10-01'
           date_end: ''
@@ -83,7 +83,7 @@ sections:
         - title: Postgraduate Researcher
           company: University of Leeds
           company_url: 'https://www.leeds.ac.uk/'
-          company_logo: leeds
+          company_logo: org-leeds
           location: Leeds, United Kingdom
           date_start: '2019-10-01'
           date_end: '2023-09-30'
