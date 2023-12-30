@@ -115,7 +115,7 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2023-10-01'
-          description: Prize for my contribution titled Hot and Cold: Mathematical Modelling of Temperature Sensing in Arabidopsis and Wheat in the conference Genetics of Future Food Production and the Green Revolution 2.0 (Newcastle, UK).
+          description: ''
           icon: 
           organization: Genetics Society
           organization_url: https://genetics.org.uk/
