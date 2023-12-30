@@ -6,7 +6,7 @@ type: landing
 
 sections:
   - block: hero
-    demo: true # Only display this section in the Hugo Blox Builder demo site
+    demo: true # Only display this section in the Hugo Blox Builder demo sit
     content:
       title: Hugo Academic Theme
       image:
