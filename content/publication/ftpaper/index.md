@@ -26,7 +26,7 @@ abstract: Plants integrate environmental information into their developmental pr
 summary: 
 
 tags: ""
-featured: false
+featured: true
 
 # links:
 # - name: ""
