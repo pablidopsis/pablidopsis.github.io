@@ -115,7 +115,7 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2022-05-02'
-          description: Scholarship from the UK Government to fund a short-term stay in [Krzysztof Wabnik's lab](https://twitter.com/PlantDynamics) at the Centre for Plant Biotechnology and Genomics (Spain).
+          description: UK-funded short stay in [Krzysztof Wabnik's lab](https://twitter.com/PlantDynamics) at the CBGP (Spain).
           icon: 
           organization: UK Government
           organization_url: https://www.turing-scheme.org.uk/
@@ -132,26 +132,26 @@ sections:
           url: ''
         - certificate_url: 
           date_end: ''
-          date_start: '2022-06-01'
+          date_start: '2021-06-01'
           description: ''
-          icon: 
+          icon: Best poster prize in the VIII International Symposium from the Society of Spanish Researchers in the UK.
           organization: Society of Spanish Researchers in the UK
           organization_url: https://sruk.org.uk/
-          title: Travel Grant
+          title: Best Poster Award
           url: 
-        - certificate_url: https://peopledevelopment.leeds.ac.uk/news/2021-doctoral-college-showcase-winners-announced/
+        - certificate_url: 
           date_end: ''
           date_start: '2021-06-12'
-          description: First prize in the 2021 Leeds Doctoral College Showcase poster competition for my contribution titled Why do plants stop flowering?.
+          description: First prize in the [2021 Leeds Doctoral College Showcase](https://peopledevelopment.leeds.ac.uk/news/2021-doctoral-college-showcase-winners-announced/) poster competition.
           icon: 
           organization: University of Leeds
           organization_url: https://www.leeds.ac.uk/
-          title: Best Poster Prize (1st)
+          title: Best Poster Prize
           url:
         - certificate_url: 
           date_end: ''
           date_start: '2021-10-01'
-          description: ''
+          description: Competitive grant to fund the participation my professional growth and development.
           icon: 
           organization: Society of Spanish Researchers in the UK
           organization_url: https://sruk.org.uk/
