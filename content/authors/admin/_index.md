@@ -109,9 +109,6 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.es/citations?user=P-L7_98AAAAJ&hl=es&oi=sra
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/pablidopsis
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Pablo-Gonzalez-Suarez-2
