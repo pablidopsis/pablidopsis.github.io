@@ -56,15 +56,15 @@ skills:
     items:
       - name: Molecular Biology and Genetics
         description: ''
-        percent: 100
+        percent: 90
         icon: dna
       - name: Bioinformatics
         description: ''
-        percent: 90
+        percent: 80
         icon: computer
       - name: Mathematical Modelling
         description: ''
-        percent: 70
+        percent: 60
         icon: square-root-alt
         icon_pack: fas
       - name: R
@@ -74,7 +74,7 @@ skills:
         icon_pack: fab
       - name: Python
         description: ''
-        percent: 60
+        percent: 50
         icon: python
         icon_pack: fab
   - name: Hobbies
@@ -87,7 +87,7 @@ skills:
         icon: running
       - name: Ukelele
         description: ''
-        percent: 40
+        percent: 60
         icon: guitar
         icon_pack: fas
       - name: Watching dog memes
