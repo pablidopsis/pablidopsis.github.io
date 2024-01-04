@@ -1,6 +1,6 @@
 ---
 # Display name
-title: González-Suárez
+title: Pablo González-Suárez
 
 # Name pronunciation (optional)
 name_pronunciation: Pablo
