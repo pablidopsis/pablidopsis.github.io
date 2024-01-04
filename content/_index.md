@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Bio 
+      title: Short biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
@@ -102,7 +102,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Featured Awards'
+      title: 'Grants'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -144,7 +144,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Featured Publication
       filters:
         folders:
           - publication
@@ -154,11 +154,8 @@ sections:
       view: card
   - block: collection
     content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      title: Other Publications
+      text: 
       filters:
         folders:
           - publication
@@ -177,9 +174,9 @@ sections:
       email: pablidopsis@gmail.com
       phone: +44 7521 481918
       address:
-        street: Irene Manton, Faculty of Biological Sciences, University of Leeds 
+        street: Faculty of Biological Sciences, University of Leeds 
         city: Leeds
-        region: LS
+        region: 
         postcode: 'LS2 9JT'
         country: United Kingdom
         country_code: UK
