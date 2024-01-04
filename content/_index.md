@@ -69,7 +69,7 @@ sections:
           location: Leeds, United Kingdom
           date_start: '2023-10-01'
           date_end: ''
-          description: I work in [Laura Dixon's lab](https://twitter.com/tweeticum) researching the temperature control of reproductive development in hexaploid wheat (_Triticum aestivum_) using a combination of bioinformatics and molecular biology.
+          description: I work in [Laura Dixon's lab](https://biologicalsciences.leeds.ac.uk/biological-sciences/staff/1366/dr-laura-dixon) researching the temperature control of reproductive development in hexaploid wheat (_Triticum aestivum_) using a combination of bioinformatics and molecular biology.
 
         - title: MSc Student
           company: University of Glasgow
@@ -87,7 +87,7 @@ sections:
           location: Leeds, United Kingdom
           date_start: '2019-10-01'
           date_end: '2023-09-30'
-          description: During my PhD, I worked in [Tom Bennett's lab](https://tombennettlab.org/), where my main interest was the environmental regulation of the end-of-flowering in _Arabidopsis thaliana_, which I studied using genetics, bioinformatics and detailed physiological analyses.
+          description: During my PhD, I worked in [Tom Bennett's lab](https://biologicalsciences.leeds.ac.uk/school-of-biology/staff/26/dr-tom-bennett), where my main interest was the environmental regulation of the end-of-flowering in _Arabidopsis thaliana_, which I studied using genetics, bioinformatics and detailed physiological analyses.
 
         - title: Research Intern
           company: University of Oviedo
@@ -115,7 +115,7 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2022-05-02'
-          description: UK-funded short stay in [Krzysztof Wabnik's lab](https://twitter.com/PlantDynamics) at the CBGP (Spain).
+          description: UK-funded short stay in [Krzysztof Wabnik's lab](https://www.cbgp.upm.es/index.php/en/?option=com_content&view=article&id=176) at the CBGP (Spain).
           icon: 
           organization: UK Government
           organization_url: https://www.turing-scheme.org.uk/
