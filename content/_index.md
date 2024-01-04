@@ -96,7 +96,7 @@ sections:
           location: Asturias, Spain
           date_start: '2018-09-01'
           date_end: '2019-06-30'
-          description: During my first MSc in Plant Biotechnology, I led a collaborative project between the [University of Oviedo](https://www.uniovi.es/) and the [SERIDA](http://www.serida.org/), in which I investigated the regulation of branching in pine tree (_Pinus pinaster_) by phytohormones.
+          description: During my first MSc in Plant Biotechnology, I led a collaborative project between the [University of Oviedo](https://www.uniovi.es/) and the [SERIDA](http://www.serida.org/), in which I investigated the regulation of branching in pine tree (_Pinus pinaster_) by phytohormones. You can read more about this in my Open Access [MSc thesis](https://digibuo.uniovi.es/dspace/bitstream/handle/10651/59437/TFM.pdf?sequence=4&isAllowed=y) (in Spanish).
     design:
       columns: '2'
   - block: accomplishments
