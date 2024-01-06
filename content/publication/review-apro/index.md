@@ -1,9 +1,9 @@
 ---
 title: "Temperature Control of Plant Development"
 authors:
-- Kathryn O'Connor
+- O'Connor
 - admin
-- Laura E Dixon
+- Dixon
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
