@@ -2,8 +2,8 @@
 title: "FLOWERING LOCUS T mediates photo-thermal timing of inflorescence meristem arrest in Arabidopsis thaliana"
 authors:
 - admin
-- Catriona H Walker
-- Tom Bennett
+- Walker
+- Bennett
 author_notes: ""
 date: "2023-03-21T00:00:00Z"
 doi: "10.1093/plphys/kiad163"
