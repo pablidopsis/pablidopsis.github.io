@@ -1,14 +1,14 @@
 ---
 title: "Auxin export from proximal fruits drives arrest in temporally competent inflorescences"
 authors:
-- Alexander Ware
-- Catriona H Walker
-- Jan Šimura
+- Ware
+- Walker
+- Šimura
 - admin
-- Karin Ljung
-- Anthony Bishopp
-- Zoe A Wilson
-- Tom Bennett
+- Ljung
+- Bishopp
+- Wilson
+- Bennett
 author_notes: ""
 date: "2020-05-25T00:00:00Z"
 doi: "10.1038/s41477-020-0661-z"
