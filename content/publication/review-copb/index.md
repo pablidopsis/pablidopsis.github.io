@@ -2,8 +2,8 @@
 title: "Bloom and bust: understanding the nature and regulation of the end of flowering"
 authors:
 - admin
-- Catriona H Walker
-- Tom Bennett
+- Walker
+- Bennett
 author_notes: ""
 date: "2020-10-01T00:00:00Z"
 doi: "10.1016/j.pbi.2020.05.009"
