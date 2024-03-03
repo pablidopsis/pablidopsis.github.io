@@ -21,8 +21,8 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Leeds
-    url: https://www.leeds.ac.uk/
+  - name: John Innes Centre
+    url: https://www.jic.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
@@ -123,5 +123,5 @@ social:
 highlight_name: true
 ---
 
-I am a postdoctoral researcher at the Centre for Plant Sciences in the University of Leeds. My scientific interest revolves around the control of plant development by environmental signals, which I study through a combination of bioinformatics and molecular biology techniques.
+I am a postdoctoral researcher at the John Innes Centre, in Norwich (UK). My scientific interest revolves around the control of plant development by environmental signals, which I study through a combination of bioinformatics and molecular biology techniques.
 {style="text-align: justify;"}
