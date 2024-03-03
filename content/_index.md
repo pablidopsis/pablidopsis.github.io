@@ -174,16 +174,16 @@ sections:
       email: pablidopsis@gmail.com
       phone: +44 7521 481918
       address:
-        street: Faculty of Biological Sciences, University of Leeds 
-        city: Leeds
+        street: The John Innes Centre, Norwich Research Park 
+        city: Norwich
         region: 
-        postcode: 'LS2 9JT'
+        postcode: 'NR4 7UH'
         country: United Kingdom
         country_code: UK
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '53.8044'
-        longitude: '-1.5548'  
+        latitude: '52.6222'
+        longitude: '1.2214'  
       contact_links:
         - icon: twitter
           icon_pack: fab
