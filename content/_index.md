@@ -63,13 +63,21 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Postdoctoral Researcher
+          company: John Innes Centre
+          company_url: 'https://www.jic.ac.uk/'
+          company_logo: jic
+          location: Norwich, United Kingdom
+          date_start: '2024-03-01'
+          date_end: ''
+          description: I am currently based at [the Penfield lab](https://www.jic.ac.uk/people/steven-penfield/), where my science revolves around the study of how parental genomes influence the effect of temperature on the next generation of plants.
+        - title: Postdoctoral Researcher
           company: University of Leeds
           company_url: 'https://www.leeds.ac.uk/'
           company_logo: leeds
           location: Leeds, United Kingdom
           date_start: '2023-10-01'
-          date_end: ''
-          description: I work in [Laura Dixon's lab](https://biologicalsciences.leeds.ac.uk/biological-sciences/staff/1366/dr-laura-dixon) researching the temperature control of reproductive development in hexaploid wheat (_Triticum aestivum_) using a combination of bioinformatics and molecular biology.
+          date_end: '2024-01-30'
+          description: My first postdoctoral postion was in [Laura Dixon's lab](https://biologicalsciences.leeds.ac.uk/biological-sciences/staff/1366/dr-laura-dixon), where I researched the temperature control of reproductive development in hexaploid wheat (_Triticum aestivum_) using a combination of bioinformatics and molecular biology.
 
         - title: MSc Student
           company: University of Glasgow
